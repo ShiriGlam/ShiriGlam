@@ -20,7 +20,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [📚 English Vocabulary Platform](https://github.com/yourusername/english-vocab-platform) | Adaptive word learning system with ML & game engine | Python, FastAPI, React, Redux |
+| [📚 English Vocabulary Platform](https://github.com/yourusername/english-vocab-platform) | Adaptive word learning system with ML & game engine | Node..js, React, Redux |
 | [🌐 Facebook-Inspired Platform](https://github.com/ShiriGlam/FooBook.git) | Full-stack social platform with real-time feed & content filtering | Node.js, React, MongoDB |
 | [🧵 C++ News Broadcaster](https://github.com/yourusername/cpp-news-threading) | Multithreaded news feed simulator with synchronization | C++, STL, Threads |
 
