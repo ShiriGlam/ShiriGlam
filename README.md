@@ -23,7 +23,7 @@
 | [📚 English Vocabulary Platform](https://github.com/ShiriGlam/Games-Learning-App.git) | Adaptive word learning system with ML & game engine | Node..js, React, Redux |
 | [🌐 Facebook-Inspired Platform](https://github.com/ShiriGlam/FooBook.git) | Full-stack social platform with real-time feed & content filtering | Node.js, React, MongoDB |
 | [🧵 C++ News Broadcaster](https://github.com/yourusername/cpp-news-threading) | Multithreaded news feed simulator with synchronization | C++, STL, Threads |
-| [🧵 C++ News Broadcaster](https://github.com/ShiriGlam/CommunicationNetworks.git) | HTTP web server and client, using low-level socket programming without any external libraries |Python, Threads |
+| [🧵programming low-level socket](https://github.com/ShiriGlam/CommunicationNetworks.git) | HTTP web server and client, using low-level socket programming without any external libraries |Python, Threads |
 ---
 
 ## 🛠️ Tech Stack
